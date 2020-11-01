@@ -7,6 +7,9 @@ I'll be adding a couple of buttons later, one to start the roll, the other to re
 
 Video: https://youtu.be/sujVmkeK8n0
 
+## Libraries
+
+Because the Arduino IDE has been getting pretty bad handling libraries, I've included the libraries used in the src directory of the sketch. These libraries may have been slightly modified to work from the sketch directory, and do not include the examples.  
 
 ## Contributing
 
